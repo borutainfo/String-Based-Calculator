@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1422969640 source:c:\users\boruta\desktop\projekt po\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	"liczba.h"
+	"explode.h"
+	"trim.h"
+	"conversion.h"
+	"dodawanie.h"
+	"odejmowanie.h"
+	"mnozenie.h"
+	"dzielenie.h"
+	"oblicz.h"
+
+1421507598 c:\users\boruta\desktop\projekt po\explode.h
+
+1421346748 c:\users\boruta\desktop\projekt po\liczba.h
+
+1421348322 c:\users\boruta\desktop\projekt po\conversion.h
+
+1422953918 c:\users\boruta\desktop\projekt po\dodawanie.h
+
+1422953968 c:\users\boruta\desktop\projekt po\odejmowanie.h
+
+1421435306 c:\users\boruta\desktop\projekt po\trim.h
+
+1421509658 c:\users\boruta\desktop\projekt po\mnozenie.h
+
+1421685541 c:\users\boruta\desktop\projekt po\dzielenie.h
+
+1422962078 c:\users\boruta\desktop\projekt po\oblicz.h
+
